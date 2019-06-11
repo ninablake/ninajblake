@@ -1,0 +1,163 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+ "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+ <head>
+ <title>Vuillemots Assignment Page </title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+<style type="text/css">
+body {
+background-color:#ECC8E4;
+}
+</style>
+
+
+</head>
+
+ <body>
+
+
+<table bgcolor="#CB8CBE" border="1" align="center">
+
+
+<tr><td width="200" height="50" align="center">
+
+<a href="mp1.html">Mini Project 1</a></td>
+
+
+<td width="200" height="50" align="center">
+
+<a href="mp2.html">Mini Project 2</a></td>
+
+
+<td width="200" height="50" align="center">
+
+<a href="mp3.html">Mini Project 3</a></td>
+
+
+<td width="200" height="50" align="center">
+
+<a href="mp4.html">Mini Project 4</a></td>
+
+
+<td width="200" height="50" align="center">
+
+<a href="mp5.html">Mini Project 5</a></td>
+
+
+<td width="200" height="50" align="center">
+
+<a href="mp6.html">Mini Project 6</a></td>
+
+
+<td width="200" height="50" align="center">
+
+<a href="designdocument.pdf" target="_blank">Design Document</a></td>
+
+
+<td width="200" height="50" align="center">
+
+<a href="index.html">Final Website</a></td></tr>
+
+
+</table>
+
+
+<table border="0" align= "center">
+<tr><th><font size="6">Nina Vuillemot's Mini Project Two</font></th></tr>
+</table>
+
+<table border="0" align= "center">
+<tr><th><font size="5">Hardware and Software</font></th></tr>
+</table>
+
+
+<table bgcolor="#CB8CBE" border="1" align="center">
+
+
+  <tr align="center">
+
+<td width="200" height="100" align="center"> I used Photoshop CS6 to customize all of my pictures. </td> 
+
+<td width="200" height="100" align="center"> I do not own a fancy camera. I just used my Samsung S6 cell phone to take these pictures which have a 12 megapixel camera. </td></tr>
+
+</table>
+	 
+	 <table border="0" align= "center">
+<tr>
+  <th><font size="5"><br />
+    SWAT TEAM</font></th></tr>
+</table>
+	 
+	 <table border="1" align="center">
+
+<tr align="center">
+
+<td width="200" height="50" align="center">
+<img src="oswat.jpg" alt="Nina Vuillemot"></img></td>
+
+<td width="200" height="50" align="center">
+<img src="nswat.jpg" alt="Nina Vuillemot"></img></td></tr> 
+
+
+</table>
+
+
+<table width="1000" border="0" align="center">
+  <tbody>
+    <tr>
+      <td align="center">   <h3> This picture came off my Samsung S7 cell phone which is a 12-megapixel camera. This is a picture of our 8th grade math team which we call ourselves the SWAT Team. Two of us are 8th grade math teachers, one is an intervention specialist, and the other is an aid to wrap up our SWAT Team for the 8th graders at Shelby Middle School. We took this picture on Halloween this year and dressed up as "Smarty Pants". I chose this picture because I would like to include the edited one on my final website. The first thing I did to this picture in Photoshop was use the Quick Selction Tool and was able to highlight our bodies. From these I did some touch ups and I was able to make a mask of us. From there I added the new background with a second layer. I had a hard time at first changing the color of the background to straight black but with trial and error I made it solid black by clicking new fill and adjustment layer at the bottom of the page. I wanted this look because our math team is called the SWAT and I think it looks intimidating. From here I had to go through and use the eye dropper and brush tool and fix up things that I messed up.I am no pro but I think that it looks awfully good for my first time using Photoshop. The last thing I did was reduce the size from width and height 4032 x 3024 to width and height of 480 x 360 which was recommended in the directions, and the resolution for both pictures was 72 pixels per inch.</h3></td>
+    </tr>
+  </tbody>
+</table>
+	
+	 	 
+
+<table border="0" align= "center">
+<tr><th><font size="5">Flower</font></th></tr>
+</table>
+
+<table border="1" align="center">
+
+<tr align="center">
+
+<td width="200" height="50" align="center">
+<img src="oflower.jpg" alt="Nina Vuillemot"></img></td>
+
+<td width="200" height="50" align="center">
+<img src="Flower1.jpg" alt="Nina Vuillemot"></img></td></tr> 
+
+
+</table>
+
+
+
+
+<table width="1000" border="0" align="center">
+  <tbody>
+    <tr>
+      <td align="center">   <h3>This picture also came off my Samsung S7 cell phone which is a 12-megapixel camera. This is a picture of a flower that students made with their hands a couple of weeks ago and we now have it hanging out in the hallway for all students in the 8th grade to see. I think that this piece of art is very simple but its presence says a lot in the hallway. I also used this picture because I would like to include it in my final project. This picture took me a much longer time to outline with the Quick Selection Tool; I think around 2 hours. I was trying to be as detailed as I could with the fingers of each hand. I was fusturated while working on it but I am glad I took my time because I am SO happy with how it turned out. I then made sure the change the background to a grayish color; I tried a lot of different colors but I felt this one made it stand out and POP! After this I started to mess with the brightness/contrast. I turned the brightness from 0 to 20 and the contrast from 0 to 40. I then went through with the eye drop tool and brush and fixed up some of my small mistakes; there were still a lot of places that you could see the ugly tile in the background. Finally I changed the images width and height from 3024 x 4032 to a width and height of 360 x 455 and again both pictures resolution were 72 pixels per inch. </h3></td>
+    </tr>
+  </tbody>
+</table>
+	 	 
+
+
+
+<table border="0" align= "center">
+<tr><th><font size="4">I hope you enjoyed my page and pictures! I really enjoyed this project; although it was very frusturating at times I am really happy with how my pictures turned out and can't wait to show some of tech saavy students what their 'old' teacher can do.</font></th></tr>
+</table>
+
+<ul style="list-style-type:none">
+<li><a href="https://www.uakron.edu">University of Akron</a></li>
+<li><a href="mailto:njv8@zips.uakron.edu">Email Me</a></li>
+</ul>
+
+  <p>
+    <a href="http://validator.w3.org/check?uri=referer"><img
+      src="http://www.w3.org/Icons/valid-xhtml10" alt="Valid XHTML 1.0 Transitional" height="31" width="88" /></a>
+  </p>
+
+</body>
+</html>

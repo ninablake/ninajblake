@@ -1,0 +1,135 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+ "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+ <title>Vuillemots Assignment Page </title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+
+<style type="text/css">
+body {
+background-color:#ECC8E4;
+}
+</style>
+
+
+
+ </head>
+
+ <body>
+
+
+
+<table bgcolor="#CB8CBE" border="1" align="center">
+
+
+<tr><td width="200" height="50" align="center">
+
+<a href="mp1.html">Mini Project 1</a></td>
+
+
+<td width="200" height="50" align="center">
+
+<a href="mp2.html">Mini Project 2</a></td>
+
+
+<td width="200" height="50" align="center">
+
+<a href="mp3.html">Mini Project 3</a></td>
+
+
+<td width="200" height="50" align="center">
+
+<a href="mp4.html">Mini Project 4</a></td>
+
+
+<td width="200" height="50" align="center">
+
+<a href="mp5.html">Mini Project 5</a></td>
+
+
+<td width="200" height="50" align="center">
+
+<a href="mp6.html">Mini Project 6</a></td>
+
+
+<td width="200" height="50" align="center">
+
+<a href="designdocument.pdf" target="_blank">Design Document</a></td>
+
+
+<td width="200" height="50" align="center">
+
+<a href="index.html">Final Website</a></td></tr>
+
+
+</table>
+
+
+<table border="0" align= "center">
+<tr><th><font size="6">Nina Vuillemot's Mini Project Four</font></th></tr>
+</table>
+
+	 
+	 <table width="850" border="0" align="center">
+  <tbody>
+    <tr>
+      <td align="center">   <h3> It took me a long time to validate my page; I found it very frusturating at times and did a lot of searching on my own for what the errors were. I was stressed at first when I saw such a high number of errors but then was realived when I realized when I fixed one thing that it would fix a lot of those silly errors. Most of the time I was forgetting to open and close tag. I also had a lot of issues with most of my tables; with rows, columns, and data. I was unable to get my audio completely validated so if you have any suggestions; please let me know. I think that overall this was a very good experience and taught me the most so far about coding and making sure I have it correct.</h3></td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+
+<table bgcolor="#CB8CBE" border="1" align="center">
+
+ 
+  <tr align="center">
+
+	<td width="200" height="50" align="center"><font size="5"><strong> Before Validation </strong></font></td>
+	
+	
+	<td width="200" height="50" align="center"><font size="5"><strong> Pass Validation </strong></font></td>
+
+  </tr>
+
+  
+  
+  <tr align="center">
+	<td><a href="mp1_b.html">Mini Project 1</a></td>
+	<td> <a href="mp1.html">Mini Project 1</a></td>
+  </tr>
+
+
+ 
+  <tr align="center">
+	<td> <a href="mp2_b.html">Mini Project 2</a></td>
+	<td> <a href="mp2.html">Mini Project 2</a></td>
+  </tr>
+
+  
+  <tr align="center">
+	<td> <a href="mp3_b.html">Mini Project 3</a></td>
+	<td> <a href="mp3.html">Mini Project 3</a></td>
+  </tr>
+	
+</table>
+
+
+
+
+<ul style="list-style-type:none">
+<li><a href="https://www.uakron.edu">University of Akron</a></li>
+<li><a href="mailto:njv8@zips.uakron.edu">Email Me</a></li>
+</ul>
+
+ <p>
+    <a href="http://validator.w3.org/check?uri=referer"><img
+      src="http://www.w3.org/Icons/valid-xhtml10" alt="Valid XHTML 1.0 Transitional" height="31" width="88" /></a>
+  </p>
+
+<!--Include validation paragraph at the end of each page.-->
+
+</body>
+</html>

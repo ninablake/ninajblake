@@ -1,0 +1,153 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+ "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+ <title>Vuillemots Assignment Page </title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+
+<style type="text/css">
+body {
+background-color:#ECC8E4;
+}
+</style>
+
+
+ </head>
+
+ <body>
+
+
+
+
+<table bgcolor="#CB8CBE" border="1" align="center">
+
+
+<tr><td width="200" height="50" align="center">
+
+<a href="mp1.html">Mini Project 1</a></td>
+
+
+<td width="200" height="50" align="center">
+
+<a href="mp2.html">Mini Project 2</a></td>
+
+
+<td width="200" height="50" align="center">
+
+<a href="mp3.html">Mini Project 3</a></td>
+
+
+<td width="200" height="50" align="center">
+
+<a href="mp4.html">Mini Project 4</a></td>
+
+
+<td width="200" height="50" align="center">
+
+<a href="mp5.html">Mini Project 5</a></td>
+
+
+<td width="200" height="50" align="center">
+
+
+<a href="mp6.html">Mini Project 6</a></td>
+
+
+<td width="200" height="50" align="center">
+
+<a href="designdocument.pdf" target="_blank">Design Document</a></td>
+
+
+<td width="200" height="50" align="center">
+
+<a href="index.html">Final Website</a></td></tr>
+
+</table>
+
+
+<!--Remember to put tr closing tag after td -->
+
+
+<table border="0" align= "center">
+<tr><th><font size="6">Welcome to Nina Vuillemot's Assignments Page</font></th></tr>
+</table>
+
+<table align="center" width="200" border="0">
+  <tbody>
+    <tr>
+      <td width="200" height="50" align="center"><img align= "middle" src="https://scontent-iad3-1.cdninstagram.com/t51.2885-19/s150x150/15625518_1768116460178165_7517566753807794176_a.jpg" alt="Nina Vuillemot"></img></td>
+    </tr>
+  </tbody>
+</table>
+
+	 
+<table width="800" border="0" align="center">
+  <tbody>
+    <tr>
+      <td align="center">   <h3>Hi my name is Nina Vuillemot. I am an 8th grade math teacher at Shelby Middle School. I am  
+         currently working on getting my Master in Instructional Technology and will be halfway through my degree after this semester. I am currently in my 2nd full year of teaching and will be coaching girls middle school track this year.This is also my first time using HTML but I am really enjoying learning all the features by trial and error. I always thought coding would be extremely difficult but it seems to be pretty easy so far. </h3></td>
+    </tr>
+  </tbody>
+</table>
+	 
+   <!--Use h3 for all pages with a width of 800 so it stays consistent and bold letting; also center everything-->
+  
+   
+   
+ 
+ <table border="0" align= "center">
+  <tr><th><font size="5">Interesting Facts About Me</font></th></tr>
+</table>
+
+<table bgcolor="#CB8CBE" border="1" align="center">
+
+<tr><td width="200" height="50" align="center"> I am currently planning a wedding where I will marry my best friend, Justin, in July of this year. We have been dating for 3 years. </td> 
+
+<td width="200" height="50" align="center"> We also just bought a house together in the same area where we both grew up. It is an old farm house so we are acting like Chip and Joanne and fixing it up. </td>
+
+<td width="200" height="50" align="center"> A random fact about me is I have dual citizenship with Germany and the United States because my mother was born and raised in Germany. </td></tr>
+
+</table>
+
+<table border="0" align="center">
+<tr><th><font size="5"><br />
+  Assignment Links</font></th></tr>
+</table>
+	
+	<table align="center" width="200" border="1">
+  <tbody>
+    <tr>
+      <td><ul style="list-style-type:disc">
+
+<li><a href="">Mini Project 1</a></li>
+<li><a href="mp2.html">Mini Project 2</a></li>
+<li><a href="mp3.html">Mini Project 3</a></li>
+<li><a href="mp4.html">Mini Project 4</a></li>
+<li><a href="mp5.html">Mini Project 5</a></li>
+<li><a href="mp6.html">Mini Project 6</a></li>
+<li><a href="designdocument.pdf" target="_blank">Design Document</a></li>
+<li><a href="index.html">Final Website</a></li>
+</ul>
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+
+ <!--Put everything in a table so that I can center things on my page. If I don't want to see the line around the table then put border of 0.-->
+  
+
+<ul style="list-style-type:none">
+<li><a href="https://www.uakron.edu">University of Akron</a></li>
+<li><a href="mailto:njv8@zips.uakron.edu">Email Me</a></li>
+</ul>
+
+<p>
+    <a href="http://validator.w3.org/check?uri=referer"><img
+      src="http://www.w3.org/Icons/valid-xhtml10" alt="Valid XHTML 1.0 Transitional" height="31" width="88" /></a>
+  </p>
+
+ </body>
+ </html>

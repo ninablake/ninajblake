@@ -1,0 +1,146 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+ "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+ <head>
+ <title>Vuillemots Assignment Page </title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+
+<style type="text/css">
+body {
+background-color:#ECC8E4;
+}
+</style>
+
+</head>
+
+
+<body>
+
+
+<table bgcolor="#CB8CBE" border="1" align="center">
+
+
+<tr><td width="200" height="50" align="center">
+
+<a href="mp1.html">Mini Project 1</a></td>
+
+
+<td width="200" height="50" align="center">
+
+<a href="mp2.html">Mini Project 2</a></td>
+
+
+<td width="200" height="50" align="center">
+
+<a href="mp3.html">Mini Project 3</a></td>
+
+
+<td width="200" height="50" align="center">
+
+<a href="mp4.html">Mini Project 4</a></td>
+
+
+<td width="200" height="50" align="center">
+
+<a href="mp5.html">Mini Project 5</a></td>
+
+
+<td width="200" height="50" align="center">
+
+<a href="mp6.html">Mini Project 6</a></td>
+
+
+<td width="200" height="50" align="center">
+
+<a href="designdocument.pdf" target="_blank">Design Document</a></td>
+
+
+<td width="200" height="50" align="center">
+
+<a href="index.html">Final Website</a></td></tr>
+
+
+</table>
+
+
+<table border="0" align= "center">
+<tr><th><font size="6">Nina Vuillemot's Mini Project Three<br />
+      <br />
+</font></th></tr>
+</table>
+	
+	<table border="5" align="center">
+ <tr>
+		<th><font size="6">Nina Vuillemot - Introduction Audio</font></th>
+	</tr>
+	<tr>
+		<th> <audio id="audio" controls="controls" preload="auto">
+		<source src="introduction1.mp3" type="audio/mp3"/>
+		</audio> </th>
+	</tr>
+	</table>
+
+	
+	
+
+
+<table width="850" border="0" align="center">
+  <tbody>
+    <tr>
+      <td align="center">   <h3> This was the first audio that I created for my class website which I am creating for my final project in this class. I had to first create the audio for this clip by taking the CD and rip the song the "Final Countdown" off. I thought this was appropiate because I teach math. I then had to delete sections of the song until I got the part that I wanted for the beginning and the end before I start speaking. The next thing I did was record myself talking about my class website when I played it back I didn't like how I was just rambling on so I decided to write down exactly what I wanted to say in paragragh form and that seemed to keep me on track and avoid saying "um" as much. From there I started to use some of the tools to make it sound a little better. The first tool that I used was to "normalize" so that it wasn't so loud when someone first pushed on the play button. I then made sure to fade out when I was beginning to speak. I then also "normalized" my voice because it was really hard to hear me at first. I then used the reduce noise tool and that seemed to really help because I don't own the best microphone to talk into so it was producing a lot of static at first. Last but not least I used the fade in and fade out tool for the sound that I put at the end after I was done talking. I think it turned out pretty good!! </h3></td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+<table border="5" align="center">
+
+	<tr>
+		<th><font size="6">Nina Vuillemot - Math Challenge Audio</font></th>
+	</tr>
+	<tr>
+		<th> <audio id="audio" controls="controls" preload="auto">
+<source src="mathchallenge1.mp3" type="audio/mp3"/>
+</audio> </th>
+	</tr>
+	</table>
+
+
+<!--This page won't completely validate because we are using HTML and that doesn't accept audio until HTML5.-->
+	
+
+
+
+<table width="850" border="0" align="center">
+  <tbody>
+    <tr>
+      <td align="center">   <h3> The second audio that I created was my "Math Challenge Audio" clip; I created this because I want to use it on my final website for this class which I am creating a class website. One of the tabs on my class website is going to be "Math Challenges" where students and come and see 3 different levels of challenges; low, medium, and high. They will then be able to complete them for incentives. The frist thing I had to do to create this audio was to take the CD and rip the mp3 off on my computer; this took the most time. I used the song the "Eye of the Tiger" to get the students excited about the math challenges. I then went through and imported the mp3 and recorded myself talking. I do not have a microphone or I would've used it because my voice doesn't sound the greatest through the built in microphone with my computer. I did a lot of cutting and deleting on the eye of the tiger song because I only wanted the begininng. I also silinced the music after the first few seconds before I talked. I then faded out the music and in my voice. For my voice I used the normalize tool which made me sound as I am. At the end I faded out the music until the audio was complete. The music at the end is a copy and paste of the music that I created for this project at the beginning. The hardest part for me then was to save it as an mp3 so I was able to put in on my site. I made sure to download the lame folder which made this possible. </h3></td>
+    </tr>
+  </tbody>
+</table>
+
+
+<table border="0" align= "center">
+<tr><th><font size="5"><br />
+  I hope you enjoyed my page and audio links!</font></th></tr>
+</table>
+
+
+<ul style="list-style-type:none">
+<li><a href="https://www.uakron.edu">University of Akron</a></li>
+<li><a href="mailto:njv8@zips.uakron.edu">Email Me</a></li>
+</ul>
+
+<p>
+    <a href="http://validator.w3.org/check?uri=referer"><img
+      src="http://www.w3.org/Icons/valid-xhtml10" alt="Valid XHTML 1.0 Transitional" height="31" width="88" /></a>
+  </p>
+
+
+<!--Still put validation paragraph because the only thing holding it back from not working is the audio like before.-->
+
+</body>
+</html>

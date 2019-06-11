@@ -1,0 +1,140 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+ "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+ <title>Vuillemots Assignment Page </title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+
+<style type="text/css">
+body {
+background-color:#ECC8E4;
+}
+</style>
+ 
+
+
+</head>
+
+ <body>
+
+
+
+<table bgcolor="#CB8CBE" border="1" align="center">
+
+
+<tr><td width="200" height="50" align="center">
+
+<a href="mp1.html">Mini Project 1</a></td>
+
+
+<td width="200" height="50" align="center">
+
+<a href="mp2.html">Mini Project 2</a></td>
+
+
+<td width="200" height="50" align="center">
+
+<a href="mp3.html">Mini Project 3</a></td>
+
+
+<td width="200" height="50" align="center">
+
+<a href="mp4.html">Mini Project 4</a></td>
+
+
+<td width="200" height="50" align="center">
+
+<a href="mp5.html">Mini Project 5</a></td>
+
+
+<td width="200" height="50" align="center">
+
+<a href="mp6.html">Mini Project 6</a></td>
+
+
+<td width="200" height="50" align="center">
+
+<a href="designdocument.pdf" target="_blank">Design Document</a></td>
+
+
+<td width="200" height="50" align="center">
+
+<a href="index.html">Final Website</a></td></tr>
+
+</table>
+
+
+<table border="0" align= "center">
+<tr><th><font size="6">Nina Vuillemot's Mini Project Five<br />
+      <br />
+</font></th></tr>
+</table>
+
+
+<table bgcolor="#CB8CBE" border="1" align="center">
+
+ 
+  <tr align="center">
+
+	<td width="200" height="50" align="center"><font size="5"><strong> Original </strong></font></td>
+	
+	
+	<td width="200" height="50" align="center"><font size="5"><strong> New </strong></font></td>
+
+  </tr>
+
+  
+  
+  <tr align="center">
+	<td><a href="mp1_o.html">Mini Project 1</a></td>
+	<td> <a href="mp1.html">Mini Project 1</a></td>
+  </tr>
+
+
+ 
+  <tr align="center">
+	<td> <a href="mp2_o.html">Mini Project 2</a></td>
+	<td> <a href="mp2.html">Mini Project 2</a></td>
+  </tr>
+
+  
+  <tr align="center">
+	<td> <a href="mp3_o.html">Mini Project 3</a></td>
+	<td> <a href="mp3.html">Mini Project 3</a></td>
+  </tr>
+
+
+  <tr align="center">
+	<td> <a href="mp4_o.html">Mini Project 4</a></td>
+	<td> <a href="mp4.html">Mini Project 4</a></td>
+  </tr>
+
+	
+</table>
+
+
+
+
+ <table width="850" border="0" align="center">
+  <tbody>
+    <tr>
+		<td align="center">   <h3> I felt like this was one of the easier Mini Projects that we did. I agree with our professor I found it very user friendly. I am glad that we had to go through the process of hand coding because I found errors along the way that I wouldn't of known about if we would've been able to use Dreamweaver the entire time. I think that my webpages look much more professional. I am also happy with how everything is now centered on my pages. I used a lot of tables to do this and get the text how I would like it within the table. I am excited to start working on my final website using Dreamweaver. I am hoping you also had a positive experience!!</h3></td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+<ul style="list-style-type:none">
+<li><a href="https://www.uakron.edu">University of Akron</a></li>
+<li><a href="mailto:njv8@zips.uakron.edu">Email Me</a></li>
+</ul>
+
+ <p>
+    <a href="http://validator.w3.org/check?uri=referer"><img
+      src="http://www.w3.org/Icons/valid-xhtml10" alt="Valid XHTML 1.0 Transitional" height="31" width="88" /></a>
+  </p>
+
+</body>
+</html>
