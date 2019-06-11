@@ -81,6 +81,19 @@ background-color:#ECC8E4;
   </tbody>
 </table>
 
+
+ <table border="1" align="center">
+
+<tr align="center">
+
+<td width="200" height="50" align="center">
+<img src="oswat.jpg" alt="Nina Vuillemot"></img></td>
+
+<td width="200" height="50" align="center">
+<img src="nswat.jpg" alt="Nina Vuillemot"></img></td></tr> 
+
+
+</table>
 	 
 <table width="800" border="0" align="center">
   <tbody>
